@@ -12,7 +12,7 @@
 | **Cardiovascular Disease EDA** | Insights into healthcare data and heart disease. | [View Project](./Cardiovascular_disease_dataset_EDA) |
 | **Student Performance Analysis** | Data visualization of academic metrics. | [View Project](./Student_acedemic_performanice_datavisualization) |
 | **Top 100 Tallest Buildings** | Architectural data and skyscraper analysis. | [View Project](./Top_100_tallest_buildings_EDA) |
-| **Human Activity w/smartphone SVM Multiclass Classification** | Architectural data and skyscraper analysis. | [View Project](./Human_activity_recognition_dataset_SVM_multiclass_classificatin) |
+| **Human Activity w/smartphone SVM Multiclass Classification** | Analysis of human behaviour with smartphone. | [View Project](./Human_activity_recognition_dataset_SVM_multiclass_classificatin) |
 
 ---
 
