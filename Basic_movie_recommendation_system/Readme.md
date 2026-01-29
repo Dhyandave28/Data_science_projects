@@ -2,6 +2,26 @@
 
 A Content-Based Basic Movie Recommendation System built with Python using the MovieLens dataset. This project analyzes movie genres to suggest films similar to a user's choice using Basic's of Natural Language Processing (NLP) and vector similarity.
 
+**Dataset Link:** [MovieLens Dataset on Kaggle](https://www.kaggle.com/datasets/ayushimishra2809/movielens-dataset)
+
+### How to set up the dataset:
+1.  **Manual Download:**
+    * Visit the link above and download the zip file.
+    * Extract `movies.csv` and `ratings.csv` into a folder named `data/` in your project directory.
+    
+2.  **Using Kaggle API:**
+    If you have the Kaggle API installed, you can download it using:
+    ```bash
+    kaggle datasets download -d nicoletacilibiu/movies-and-ratings-for-recommendation-system
+    ```
+
+3.  **Update File Paths:**
+    Ensure the paths in your notebook match your local file structure:
+    ```python
+    movies = pd.read_csv('data/movies.csv')
+    ratings = pd.read_csv('data/ratings.csv')
+    ```
+
 ## 📌 Project Overview
 This system implements **Content-Based Filtering**. It takes a movie title as input, analyzes its genre characteristics, and ranks other movies in the dataset based on how similar their content is to the input.
 
