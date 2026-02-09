@@ -10,6 +10,7 @@ Welcome to my central repository for data science projects. This space serves as
 | **Movie Recommendation System** | A basic system for suggesting films. | [View Project](./Basic_movie_recommendation_system) |
 | **NBA Dataset Analysis** | Detailed analysis of players, teams, and contexts. | [View Project](./NBA_dataset_analysis_players_team&context_data) |
 | **Titanic Survival EDA** | classic survival analysis using the Titanic dataset. | [View Project](./Basic_titanic_survival_EDA) |
+| **Credit card fraud models** | Multiple model used to analyse credit card fraud patterns and insights. | [View Project](./Credit_card_fraud_detection_predective_models) |
 | **Cardiovascular Disease EDA** | Insights into healthcare data and heart disease. | [View Project](./Cardiovascular_disease_dataset_EDA) |
 | **Student Performance Analysis** | Data visualization of academic metrics. | [View Project](./Student_acedemic_performanice_datavisualization) |
 | **Top 100 Tallest Buildings** | Architectural data and skyscraper analysis. | [View Project](./Top_100_tallest_buildings_EDA) |
